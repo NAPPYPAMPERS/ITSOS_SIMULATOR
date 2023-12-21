@@ -1,0 +1,14 @@
+    ofstream file("file.txt");
+
+    file<<"";
+
+    file.close();
+
+[creare e scrivere un testo]
+
+
+for (char frfr : fr)
+            {
+                cout<<frfr<<flush;
+                this_thread::sleep_for(chrono::milliseconds(100));
+            }
